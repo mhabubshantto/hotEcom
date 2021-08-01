@@ -1,0 +1,47 @@
+.container{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.orang-bg{
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color:black;
+}
+.bye-now-button{
+    background-color:black;
+    color:#fff;
+    border:none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgray;
+    border-radius:10px;
+}
+.item{
+    padding:35px;
+    box-shadow:5px 5px 10px lightgray;
+    border-radius:10px;
+}
+.issu{
+    padding-left: 10px;
+}
+.catagory{
+    text-align:center;
+}
+.fix{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+
+footer{
+    text-align: center;
+}
